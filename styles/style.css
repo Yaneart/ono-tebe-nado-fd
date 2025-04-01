@@ -317,7 +317,7 @@
     font-weight: 700;
     line-height: 47px;
     text-align: left;
-    text-transform: uppercase; 
+    text-transform: uppercase;
 }
 
 .about__text1 {
@@ -393,7 +393,7 @@
     width: 100%;
     height: 100%;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.5); 
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .overlay_color {
