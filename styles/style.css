@@ -116,6 +116,7 @@
     line-height: 28px;
     text-align: left;
     text-transform: uppercase;
+    word-spacing: 18px
 }
 
 .bet-button {
@@ -275,7 +276,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 62px;
     margin-left: 24px;
 }
 
