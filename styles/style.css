@@ -300,16 +300,6 @@
 
 }
 
-.about__title {
-    color: rgb(0, 0, 0);
-    font-family: Raleway;
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 47px;
-    text-align: left;
-    text-transform: uppercase; 
-}
-
 .about__text {
     color: rgb(0, 0, 0);
     font-family: Raleway;
@@ -318,6 +308,16 @@
     line-height: 24px;
     text-align: left;
     padding-top: 100px;
+}
+
+.about__title {
+    color: rgb(0, 0, 0);
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    text-align: left;
+    text-transform: uppercase; 
 }
 
 .about__text1 {
@@ -394,10 +394,10 @@
     height: 100%;
     z-index: 1;
     background-color: rgba(0, 0, 0, 0.5); 
-  }
+}
 
 .overlay_color {
     position: relative;
     z-index: 2;
     color: white;
-  }
+}
