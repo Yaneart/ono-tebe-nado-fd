@@ -73,6 +73,7 @@
   right: 50px;
   top: 165px;
   bottom: 207px;
+  margin-right: 55px;
 }
 
 .accent_span {
@@ -277,7 +278,6 @@
   width: 1090px;
   height: 595px;
   margin-top: 120px;
-  margin-left: 20px;
 }
 .circle {
   display: flex;
@@ -288,7 +288,7 @@
   border-radius: 50%;
   background: black;
   margin-top: 35px;
-  margin-left: 50px;
+  margin-left: 70px;
 }
 
 .about__text {
@@ -331,7 +331,8 @@
 
 .about__column {
   padding-top: 135px;
-  padding-left: 10px;
+  max-width: 600px;
+  padding-left: 30px;
 }
 
 .about__logo {
